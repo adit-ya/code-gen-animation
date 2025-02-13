@@ -120,7 +120,7 @@ const CodeTypewriter = ({
 
     return (
         <div className='w-full max-w-4xl mx-auto bg-[#1E1E1E] rounded-lg overflow-hidden shadow-xl'>
-            <div className='flex items-center justify-between px-4 py-2 bg-[#252526]'>
+            <div className='flex flex-col sm:flex-row items-center justify-between px-4 py-2 bg-[#252526]'>
                 <div className='flex items-center space-x-2'>
                     <div className='w-3 h-3 rounded-full bg-red-500' />
                     <div className='w-3 h-3 rounded-full bg-yellow-500' />
