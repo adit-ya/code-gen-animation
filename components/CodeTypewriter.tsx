@@ -1,14 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import {
-    ChevronRight,
-    Play,
-    Pause,
-    RotateCcw,
-    ChevronDown,
-    Zap,
-} from 'lucide-react';
+import { Play, Pause, RotateCcw, ChevronDown } from 'lucide-react';
 import Prism from 'prismjs';
 
 import 'prismjs/themes/prism-tomorrow.css';

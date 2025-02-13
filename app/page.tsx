@@ -22,8 +22,8 @@ export default function Home() {
                     <p className='text-gray-400 text-center max-w-2xl mx-auto'>
                         Simple code generation animation. Useful for demos and
                         presentations. Paste code below, choose a language and
-                        speed, and hit play. Use your device's screen recorder
-                        to record animation.
+                        speed, and hit play. Use your device&apos;s screen
+                        recorder to record animation.
                     </p>
                 </div>
 
